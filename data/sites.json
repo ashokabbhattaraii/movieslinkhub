@@ -1,6 +1,116 @@
 [
   {
     "id": "1",
+    "name": "MultiMovies",
+    "url": "https://multimovies.wtf/",
+    "description": "Movies, TV Shows & Anime streaming",
+    "category": "All-in-One",
+    "status": "online",
+    "featured": true,
+    "rating": 4.5,
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "24",
+    "name": "Aether",
+    "url": "https://aether.bar/",
+    "description": "Premium free streaming experience",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": true,
+    "rating": 4.6,
+    "createdAt": "2025-01-24T00:00:00.000Z"
+  },
+  {
+    "id": "25",
+    "name": "Net11",
+    "url": "https://net11.cc/home",
+    "description": "Watch movies & TV shows online free",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": true,
+    "rating": 4.4,
+    "createdAt": "2025-01-25T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "123Movies",
+    "url": "https://ww2.123moviesfree.net/",
+    "description": "Free streaming for latest releases",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": false,
+    "rating": 3.8,
+    "createdAt": "2025-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Soap2Day",
+    "url": "https://ww2.soap2day.day/",
+    "description": "Stream movies & shows instantly",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": false,
+    "rating": 4.0,
+    "createdAt": "2025-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "YesMovies",
+    "url": "https://yesmovies.ag/",
+    "description": "Watch full movies without signup",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": false,
+    "rating": 3.5,
+    "createdAt": "2025-01-09T00:00:00.000Z"
+  },
+  {
+    "id": "14",
+    "name": "LookMovie",
+    "url": "https://lookmovie2.to/",
+    "description": "Ad-free movie streaming experience",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": false,
+    "rating": 4.2,
+    "createdAt": "2025-01-14T00:00:00.000Z"
+  },
+  {
+    "id": "15",
+    "name": "MovieWatcher",
+    "url": "https://moviewatcher.is/",
+    "description": "Stream & download free movies",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": false,
+    "rating": 3.7,
+    "createdAt": "2025-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "18",
+    "name": "VidSrc",
+    "url": "https://vidsrc.to/",
+    "description": "Embeddable movie & TV streams",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": false,
+    "rating": 4.3,
+    "createdAt": "2025-01-18T00:00:00.000Z"
+  },
+  {
+    "id": "23",
+    "name": "Tinyzone",
+    "url": "https://tinyzone.org/",
+    "description": "Stream without registration",
+    "category": "Movies & TV",
+    "status": "online",
+    "featured": false,
+    "rating": 3.9,
+    "createdAt": "2025-01-23T00:00:00.000Z"
+  },
+  {
+    "id": "26",
     "name": "Cineby",
     "url": "https://cineby.at/",
     "description": "Movies, TV shows & anime with auto-next episode playback",
@@ -8,10 +118,10 @@
     "status": "online",
     "featured": true,
     "rating": 4.7,
-    "createdAt": "2025-01-01T00:00:00.000Z"
+    "createdAt": "2025-01-26T00:00:00.000Z"
   },
   {
-    "id": "2",
+    "id": "27",
     "name": "Rive",
     "url": "https://www.rivestream.app/",
     "description": "Multi-format streaming for movies, shows & anime",
@@ -19,10 +129,10 @@
     "status": "online",
     "featured": true,
     "rating": 4.6,
-    "createdAt": "2025-01-02T00:00:00.000Z"
+    "createdAt": "2025-01-27T00:00:00.000Z"
   },
   {
-    "id": "3",
+    "id": "28",
     "name": "BingeBox",
     "url": "https://bingebox.to/",
     "description": "Binge-watching experience across all entertainment categories",
@@ -30,10 +140,10 @@
     "status": "online",
     "featured": true,
     "rating": 4.5,
-    "createdAt": "2025-01-03T00:00:00.000Z"
+    "createdAt": "2025-01-28T00:00:00.000Z"
   },
   {
-    "id": "4",
+    "id": "29",
     "name": "Cineplay",
     "url": "https://www.cineplay.to/",
     "description": "Stream cinematic content across multiple genres",
@@ -41,10 +151,10 @@
     "status": "online",
     "featured": false,
     "rating": 4.4,
-    "createdAt": "2025-01-04T00:00:00.000Z"
+    "createdAt": "2025-01-29T00:00:00.000Z"
   },
   {
-    "id": "5",
+    "id": "30",
     "name": "Fmovies+",
     "url": "https://www.fmovies.gd/",
     "description": "Stream films, series & animated content",
@@ -52,10 +162,10 @@
     "status": "online",
     "featured": false,
     "rating": 4.3,
-    "createdAt": "2025-01-05T00:00:00.000Z"
+    "createdAt": "2025-01-30T00:00:00.000Z"
   },
   {
-    "id": "6",
+    "id": "31",
     "name": "PopcornMovies",
     "url": "https://popcornmovies.io/",
     "description": "Theatrical releases & TV with seamless episode continuation",
@@ -63,10 +173,10 @@
     "status": "online",
     "featured": false,
     "rating": 4.3,
-    "createdAt": "2025-01-06T00:00:00.000Z"
+    "createdAt": "2025-01-31T00:00:00.000Z"
   },
   {
-    "id": "7",
+    "id": "32",
     "name": "CorsFlix",
     "url": "https://watch.corsflix.net",
     "description": "Web-based streaming with diverse entertainment options",
@@ -74,10 +184,10 @@
     "status": "online",
     "featured": false,
     "rating": 4.2,
-    "createdAt": "2025-01-07T00:00:00.000Z"
+    "createdAt": "2025-02-01T00:00:00.000Z"
   },
   {
-    "id": "8",
+    "id": "33",
     "name": "Flixer",
     "url": "https://flixer.su",
     "description": "Auto-playback streaming for series, films & animation",
@@ -85,10 +195,10 @@
     "status": "online",
     "featured": false,
     "rating": 4.1,
-    "createdAt": "2025-01-08T00:00:00.000Z"
+    "createdAt": "2025-02-02T00:00:00.000Z"
   },
   {
-    "id": "9",
+    "id": "34",
     "name": "Hexa",
     "url": "https://hexa.su/",
     "description": "Entertainment streaming spanning multiple media types",
@@ -96,10 +206,10 @@
     "status": "online",
     "featured": false,
     "rating": 4.1,
-    "createdAt": "2025-01-09T00:00:00.000Z"
+    "createdAt": "2025-02-03T00:00:00.000Z"
   },
   {
-    "id": "10",
+    "id": "35",
     "name": "FlickyStream",
     "url": "https://flickystream.su/",
     "description": "Continuous playback for serialized & theatrical content",
@@ -107,10 +217,10 @@
     "status": "online",
     "featured": false,
     "rating": 4.0,
-    "createdAt": "2025-01-10T00:00:00.000Z"
+    "createdAt": "2025-02-04T00:00:00.000Z"
   },
   {
-    "id": "11",
+    "id": "36",
     "name": "MeowTV",
     "url": "https://meowtv.ru/",
     "description": "TV series, movies & anime streaming platform",
@@ -118,10 +228,10 @@
     "status": "online",
     "featured": false,
     "rating": 4.0,
-    "createdAt": "2025-01-11T00:00:00.000Z"
+    "createdAt": "2025-02-05T00:00:00.000Z"
   },
   {
-    "id": "12",
+    "id": "37",
     "name": "CineMora",
     "url": "https://cinemora.ru/",
     "description": "Movie & TV streaming with auto episode advancement",
@@ -129,10 +239,10 @@
     "status": "online",
     "featured": false,
     "rating": 3.9,
-    "createdAt": "2025-01-12T00:00:00.000Z"
+    "createdAt": "2025-02-06T00:00:00.000Z"
   },
   {
-    "id": "13",
+    "id": "38",
     "name": "67Movies",
     "url": "https://67movies.nl/",
     "description": "Theatrical releases, TV series & animated content",
@@ -140,10 +250,10 @@
     "status": "online",
     "featured": false,
     "rating": 3.9,
-    "createdAt": "2025-01-13T00:00:00.000Z"
+    "createdAt": "2025-02-07T00:00:00.000Z"
   },
   {
-    "id": "14",
+    "id": "39",
     "name": "456movie",
     "url": "https://456movie.nl",
     "description": "Films, TV & anime with auto-play functionality",
@@ -151,10 +261,10 @@
     "status": "online",
     "featured": false,
     "rating": 3.8,
-    "createdAt": "2025-01-14T00:00:00.000Z"
+    "createdAt": "2025-02-08T00:00:00.000Z"
   },
   {
-    "id": "15",
+    "id": "40",
     "name": "Coreflix",
     "url": "https://coreflix.tv/",
     "description": "Streaming with continuous playback across mediums",
@@ -162,10 +272,10 @@
     "status": "online",
     "featured": false,
     "rating": 3.8,
-    "createdAt": "2025-01-15T00:00:00.000Z"
+    "createdAt": "2025-02-09T00:00:00.000Z"
   },
   {
-    "id": "16",
+    "id": "41",
     "name": "bCine",
     "url": "https://bcine.ru/",
     "description": "HD streaming with automatic episode progression",
@@ -173,10 +283,10 @@
     "status": "online",
     "featured": false,
     "rating": 3.7,
-    "createdAt": "2025-01-16T00:00:00.000Z"
+    "createdAt": "2025-02-10T00:00:00.000Z"
   },
   {
-    "id": "17",
+    "id": "42",
     "name": "Cinema.BZ",
     "url": "https://cinema.bz/",
     "description": "Movies, shows & anime streaming platform",
@@ -184,10 +294,10 @@
     "status": "online",
     "featured": false,
     "rating": 3.7,
-    "createdAt": "2025-01-17T00:00:00.000Z"
+    "createdAt": "2025-02-11T00:00:00.000Z"
   },
   {
-    "id": "18",
+    "id": "43",
     "name": "Cinevibe",
     "url": "https://cinevibe.asia/",
     "description": "Continuous viewing experience for multimedia content",
@@ -195,10 +305,10 @@
     "status": "online",
     "featured": false,
     "rating": 3.6,
-    "createdAt": "2025-01-18T00:00:00.000Z"
+    "createdAt": "2025-02-12T00:00:00.000Z"
   },
   {
-    "id": "19",
+    "id": "44",
     "name": "ArrowTV",
     "url": "https://arrowtv.net/",
     "description": "Theatrical releases, series & animated programming",
@@ -206,17 +316,6 @@
     "status": "online",
     "featured": false,
     "rating": 3.6,
-    "createdAt": "2025-01-19T00:00:00.000Z"
-  },
-  {
-    "id": "20",
-    "name": "Cineby Anime",
-    "url": "https://cineby.at/",
-    "description": "Dedicated anime streaming with auto-next episode",
-    "category": "Anime",
-    "status": "online",
-    "featured": false,
-    "rating": 4.5,
-    "createdAt": "2025-01-20T00:00:00.000Z"
+    "createdAt": "2025-02-13T00:00:00.000Z"
   }
 ]
